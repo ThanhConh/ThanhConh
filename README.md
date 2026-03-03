@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Lê Thành Công 👋
 
-<!--
-**ThanhConh/ThanhConh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Just a guy trying to push my brain to the limit, write fast code, bend tools to my will, and craft beautiful software that runs like magic.
 
-Here are some ideas to get you started:
+### ⚡ Fun Facts
+- I write most of my code live, sleep-deprived, and heavily caffeinated. ☕
+- **Neovim > any IDE**, fight me. 🥊
+- Arch Linux user. btw. 🐧
+- Most of my repos are just experiments… until they’re not. 🧪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Building
+- A faster way to write code *(tooling, plugins, or mindset)*
+- A personal knowledge base that doesn’t suck 🧠
+- Better habits, maybe. Eventually. Possibly. 🌱
+
+### 🗺️ Side Quest
+- Reading CS books I'll never finish 📚
+
+---
+*Come for the code, stay for the chaos.*
